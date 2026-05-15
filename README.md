@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Shuvo Kumar Das</h1>
+<h1 align="center">👋 Hi, I'm Shuvo Kumar Das</h1>
 
-<h3 align="center">Senior Software Engineer | Power Platform Specialist | Full-Stack Engineer</h3>
+<h3 align="center">🚀 Senior Software Engineer | Power Platform Specialist | Full-Stack Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+enterprise-grade+business+applications;Automating+workflows+with+Power+Platform;Designing+dashboards+and+decision-ready+reports;Delivering+clean+full-stack+software+systems" alt="Professional focus" />
@@ -9,7 +9,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamshuvokd&style=flat&color=0e75b6" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/iamshuvokd?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Senior%20Software%20Developer-282C34?style=flat&logo=github&logoColor=white" alt="Senior Software Developer" />
+  <img src="https://img.shields.io/badge/Senior%20Software%20Engineer-282C34?style=flat&logo=github&logoColor=white" alt="Senior Software Engineer" />
+  <img src="https://img.shields.io/badge/Power%20Platform-282C34?style=flat&logo=powerapps&logoColor=white" alt="Power Platform" />
 </p>
 
 <p align="center">
@@ -32,16 +33,16 @@
 
 ---
 
-## Professional Snapshot
+## 🧭 Professional Snapshot
 
 <div align="center">
 
-| Focus | What I Build |
-| --- | --- |
-| Enterprise Applications | Internal tools, approval systems, workflow apps, admin dashboards |
-| Power Platform | Power Apps, Power Automate, Power BI, SharePoint, Dataverse |
-| Automation | Business process automation, notifications, integrations, scheduled flows |
-| Full-Stack Development | Frontend, backend, APIs, databases, reporting systems |
+| Signal | Focus | Output |
+| --- | --- | --- |
+| 🏢 Enterprise Apps | Internal tools, approval systems, admin dashboards | Reliable business operations |
+| ⚙️ Power Platform | Power Apps, Power Automate, Power BI, SharePoint, Dataverse | Faster digital workflows |
+| 📊 Data & Analytics | Reports, KPIs, dashboards, structured data | Better decision visibility |
+| 🧩 Full-Stack Systems | Frontend, backend, APIs, databases | Maintainable software products |
 
 </div>
 
@@ -49,13 +50,37 @@ I build reliable digital systems for business operations: applications that redu
 
 ---
 
-<h2>Streak</h2>
+## ⚡ Impact Dashboard
+
+<div align="center">
+
+| 🧠 Think | 🛠️ Build | 📈 Improve | 🤝 Deliver |
+| --- | --- | --- | --- |
+| Process mapping | Apps & APIs | Reports & automation | Documentation |
+| Data structure | Power Platform | Workflow quality | Team handover |
+| User needs | Full-stack tools | Maintainability | Long-term value |
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Business%20Automation-282C34?logo=powerautomate&logoColor=white" alt="Business Automation" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Dashboard%20Design-282C34?logo=powerbi&logoColor=F2C811" alt="Dashboard Design" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/API%20Integration-282C34?logo=fastapi&logoColor=009688" alt="API Integration" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Clean%20Architecture-282C34?logo=github&logoColor=white" alt="Clean Architecture" height="25" />
+</p>
+
+---
+
+<h2>🔥 Streak</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iamshuvokd&theme=gotham&hide_border=true" alt="GitHub streak" />
 </p>
 
-<h2>Stats</h2>
+<h2>📊 Stats</h2>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamshuvokd&show_icons=true&theme=gotham&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" />
@@ -64,7 +89,7 @@ I build reliable digital systems for business operations: applications that redu
 
 ---
 
-## Languages & Tools
+## 🔧 Languages & Tools
 
 <div align="center">
 
@@ -110,28 +135,28 @@ I build reliable digital systems for business operations: applications that redu
 
 ---
 
-## Digital Value Map
+## 🗺️ Digital Value Map
 
 <div align="center">
 
-| Business Challenge | Technical Delivery | Result |
+| Challenge | Delivery | Result |
 | --- | --- | --- |
-| Manual process and repeated work | Power Apps + Power Automate | Faster, trackable workflows |
-| Scattered data and weak visibility | Power BI + SQL + SharePoint | Clear dashboards and better decisions |
-| Internal tools need structure | Full-stack apps + APIs + documentation | Maintainable digital systems |
-| Teams need Microsoft 365 integration | SharePoint + Dataverse + automation | Connected business operations |
+| ⏳ Manual process and repeated work | Power Apps + Power Automate | Faster, trackable workflows |
+| 📉 Scattered data and weak visibility | Power BI + SQL + SharePoint | Clear dashboards and better decisions |
+| 🧱 Internal tools need structure | Full-stack apps + APIs + documentation | Maintainable digital systems |
+| 🔗 Teams need Microsoft 365 integration | SharePoint + Dataverse + automation | Connected business operations |
 
 </div>
 
 ---
 
-## Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamshuvokd&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
-<h2>Contribution Snake</h2>
+<h2>🐍 Contribution Snake</h2>
 
 <p align="center">
   <picture>
@@ -143,7 +168,7 @@ I build reliable digital systems for business operations: applications that redu
 
 ---
 
-## Find Me Here
+## 💻 Find Me Here
 
 <div align="center">
 
