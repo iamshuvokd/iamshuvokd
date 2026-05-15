@@ -157,6 +157,14 @@ My work focuses on turning complex processes into clean digital systems: interna
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamshuvokd&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamshuvokd/iamshuvokd/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamshuvokd/iamshuvokd/output/github-contribution-grid-snake.svg" />
+    <img width="95%" src="https://raw.githubusercontent.com/iamshuvokd/iamshuvokd/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  </picture>
+</p>
+
 ---
 
 ## Connect
