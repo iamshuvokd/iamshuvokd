@@ -85,19 +85,19 @@ I build reliable digital systems for business operations: applications that redu
 <h2>📊 Stats</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Stars-Open%20Source%20Growth-282C34?logo=github&logoColor=white" alt="Stars" height="25" />
+  <img src="https://img.shields.io/badge/Stars-Open%20Source%20Growth-282C34?logo=github&logoColor=white" alt="Stars" height="18" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Commits-Consistent%20Engineering-282C34?logo=git&logoColor=F05032" alt="Commits" height="25" />
+  <img src="https://img.shields.io/badge/Commits-Consistent%20Engineering-282C34?logo=git&logoColor=F05032" alt="Commits" height="18" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Languages-Data%20Driven%20Profile-282C34?logo=github&logoColor=38BDF8" alt="Languages" height="25" />
+  <img src="https://img.shields.io/badge/Languages-Data%20Driven%20Profile-282C34?logo=github&logoColor=38BDF8" alt="Languages" height="18" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://rizwansammo-stat.vercel.app/api?username=iamshuvokd&show_icons=true&theme=gotham" alt="GitHub stats" />
+  <img width="46%" src="https://rizwansammo-stat.vercel.app/api?username=iamshuvokd&show_icons=true&theme=gotham" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://rizwansammo-stat.vercel.app/api/top-langs/?username=iamshuvokd&theme=gotham&langs_count=8&layout=compact" alt="Top languages" />
+  <img width="46%" src="https://rizwansammo-stat.vercel.app/api/top-langs/?username=iamshuvokd&theme=gotham&langs_count=8&layout=compact" alt="Top languages" />
 </p>
 
 ---
