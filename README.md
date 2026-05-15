@@ -93,11 +93,11 @@ I build reliable digital systems for business operations: applications that redu
 </p>
 
 <p align="center">
-  <img width="80%" src="https://rizwansammo-stat.vercel.app/api?username=iamshuvokd&show_icons=true&theme=gotham" alt="GitHub stats" />
+  <img width="70%" src="https://rizwansammo-stat.vercel.app/api?username=iamshuvokd&show_icons=true&theme=gotham" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://rizwansammo-stat.vercel.app/api/top-langs/?username=iamshuvokd&theme=gotham&langs_count=8&layout=compact" alt="Top languages" />
+  <img width="70%" src="https://rizwansammo-stat.vercel.app/api/top-langs/?username=iamshuvokd&theme=gotham&langs_count=8&layout=compact" alt="Top languages" />
 </p>
 
 ---
