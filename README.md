@@ -43,6 +43,32 @@ My work focuses on turning complex processes into clean digital systems: interna
 
 ---
 
+## Current Focus
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>Building</h3>
+      <p>Enterprise business applications, automation workflows, reporting systems, and full-stack internal tools.</p>
+    </td>
+    <td width="33%">
+      <h3>Improving</h3>
+      <p>Power Platform architecture, system reliability, data visibility, API integrations, and delivery quality.</p>
+    </td>
+    <td width="33%">
+      <h3>Collaborating On</h3>
+      <p>Business process automation, digital transformation, dashboards, admin systems, and productivity platforms.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Available%20For-Professional%20Collaboration-0E7490?style=for-the-badge" alt="Professional collaboration" />
+  <img src="https://img.shields.io/badge/Ask%20Me%20About-Power%20Platform%20%7C%20Automation%20%7C%20Full--Stack-2563EB?style=for-the-badge" alt="Ask me about" />
+</p>
+
+---
+
 ## Professional Strengths
 
 <table>
@@ -129,6 +155,18 @@ My work focuses on turning complex processes into clean digital systems: interna
 | Full-Stack Products | Responsive web apps, REST APIs, database-backed systems, admin panels |
 | Integrations | Microsoft 365, SharePoint, APIs, SQL databases, external business systems |
 | Engineering Quality | Documentation, code review, maintainability, deployment readiness |
+
+---
+
+## Professional Value
+
+| If the problem is... | I help by... |
+| --- | --- |
+| Manual business processes are slowing teams down | Designing automated workflows and approval systems |
+| Data exists but decisions are still difficult | Building Power BI dashboards and reliable reporting views |
+| Internal tools are hard to maintain | Creating cleaner application structure and better documentation |
+| Teams need Microsoft 365 integration | Connecting SharePoint, Power Apps, Power Automate, and APIs |
+| A product needs full-stack delivery | Building frontend, backend, database, and deployment-ready foundations |
 
 ---
 
