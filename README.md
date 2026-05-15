@@ -27,6 +27,12 @@
   <img src="https://img.shields.io/badge/Focus-Business%20Automation-0F766E?style=for-the-badge" alt="Business automation" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="95%" src="https://github-profile-trophy.vercel.app/?username=iamshuvokd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub profile trophies" />
+  </a>
+</p>
+
 ---
 
 ## Executive Profile
@@ -64,6 +70,23 @@ My work focuses on turning complex processes into clean digital systems: interna
 
 ---
 
+## Career Snapshot
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Senior%20Developer-Production%20Systems-2563EB?style=for-the-badge" alt="Senior Developer" />
+  <img src="https://img.shields.io/badge/Power%20Platform-Apps%20%7C%20Flows%20%7C%20BI-742774?style=for-the-badge" alt="Power Platform" />
+  <img src="https://img.shields.io/badge/Engineering%20Focus-Reliability%20%7C%20Automation%20%7C%20Data-0E7490?style=for-the-badge" alt="Engineering Focus" />
+</p>
+
+| Capability | Senior-Level Focus |
+| --- | --- |
+| Technical Leadership | Delivery ownership, solution design, technical guidance, code quality |
+| Business Automation | Power Apps, Power Automate, SharePoint, Dataverse, Microsoft 365 |
+| Reporting Systems | Power BI dashboards, KPI visibility, business intelligence workflows |
+| Software Engineering | Full-stack applications, APIs, databases, documentation, maintainability |
+
+---
+
 ## Technology Stack
 
 ### Microsoft Power Platform & Business Systems
@@ -81,6 +104,17 @@ My work focuses on turning complex processes into clean digital systems: interna
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,django,html,css,tailwind,bootstrap,postgres,mongodb,azure,git,github,vscode&perline=10" alt="Software engineering skills" />
+</p>
+
+### Professional Tooling
+
+<p>
+  <img src="https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=powerapps&logoColor=white" alt="Power Platform" />
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" alt="Microsoft 365" />
+  <img src="https://img.shields.io/badge/SharePoint-03787C?style=flat-square&logo=microsoftsharepoint&logoColor=white" alt="SharePoint" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 ---
@@ -126,6 +160,21 @@ My work focuses on turning complex processes into clean digital systems: interna
 ---
 
 ## Connect
+
+<p align="center">
+  <a href="https://github.com/iamshuvokd" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="iamshuvokd" height="32" width="42" />
+  </a>
+  <a href="https://www.linkedin.com/in/iamshuvo" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamshuvo" height="32" width="42" />
+  </a>
+  <a href="mailto:iamshuvokd@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="email" height="32" width="42" />
+  </a>
+  <a href="https://shuvokumardas.me" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/google_chrome.svg" alt="portfolio" height="32" width="42" />
+  </a>
+</p>
 
 <p align="center">
   <a href="mailto:iamshuvokd@gmail.com">
