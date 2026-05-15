@@ -77,14 +77,16 @@ I build reliable digital systems for business operations: applications that redu
 <h2>🔥 Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamshuvokd&theme=gotham&hide_border=true" alt="GitHub streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://rizwansammo-push-streak.vercel.app?user=iamshuvokd&theme=gotham" alt="GitHub streak" />
+  </a>
 </p>
 
 <h2>📊 Stats</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamshuvokd&show_icons=true&theme=gotham&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshuvokd&theme=gotham&hide_border=true&langs_count=8&layout=compact" alt="Top languages" />
+  <img width="49%" src="https://rizwansammo-stat.vercel.app/api?username=iamshuvokd&show_icons=true&theme=gotham" alt="GitHub stats" />
+  <img width="49%" src="https://rizwansammo-stat.vercel.app/api/top-langs/?username=iamshuvokd&theme=gotham&langs_count=8&layout=compact" alt="Top languages" />
 </p>
 
 ---
@@ -174,7 +176,7 @@ I build reliable digital systems for business operations: applications that redu
 
 <a href="https://github.com/iamshuvokd" target="_blank"><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white" alt="GitHub" title="GitHub" height="25" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/iamshuvo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn" title="LinkedIn" height="25" /></a>
+<a href="https://www.linkedin.com/in/iamshuvokd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn" title="LinkedIn" height="25" /></a>
 &nbsp;
 <a href="mailto:iamshuvokd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=EA4335" alt="Gmail" title="Gmail" height="25" /></a>
 &nbsp;
