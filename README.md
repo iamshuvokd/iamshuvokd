@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shuvo Kumar Das</h1>
 
-<h3 align="center">Senior Software Developer | Power Platform Specialist | Full-Stack Engineer</h3>
+<h3 align="center">Senior Software Engineer | Power Platform Specialist | Full-Stack Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+enterprise-grade+business+applications;Automating+workflows+with+Power+Platform;Designing+dashboards+and+decision-ready+reports;Delivering+clean+full-stack+software+systems" alt="Professional focus" />
