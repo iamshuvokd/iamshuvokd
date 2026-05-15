@@ -1,37 +1,62 @@
-# Hi, I'm Shuvo
+<h1 align="center">Shuvo Kumar Das</h1>
 
-### Software Developer | Full-Stack Builder | Problem Solver
+<h3 align="center">Senior Software Developer | Power Platform Specialist | Full-Stack Engineer</h3>
 
-I build clean, reliable, and user-focused software with a strong interest in backend systems, modern web applications, and practical developer tooling. I enjoy turning ideas into maintainable products, writing readable code, and improving systems until they feel simple to use.
-
-<p align="left">
-  <a href="https://github.com/iamshuvokd?tab=followers">
-    <img src="https://img.shields.io/github/followers/iamshuvokd?label=Followers&style=for-the-badge" alt="GitHub followers" />
-  </a>
+<p align="center">
   <a href="https://github.com/iamshuvokd">
-    <img src="https://komarev.com/ghpvc/?username=iamshuvokd&style=for-the-badge&color=0e75b6" alt="Profile views" />
+    <img src="https://img.shields.io/badge/GitHub-iamshuvokd-111827?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/iamshuvo">
+    <img src="https://img.shields.io/badge/LinkedIn-iamshuvo-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:iamshuvokd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamshuvokd&style=for-the-badge&color=0e75b6" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/iamshuvokd?label=Followers&style=for-the-badge" alt="GitHub followers" />
 </p>
 
 ---
 
-## About Me
+## Professional Summary
 
-- I focus on building practical applications that solve real problems.
-- I care about clean architecture, performance, security, and maintainable code.
-- I am always learning better ways to design, test, and ship software.
-- I like working across the stack, from database design and APIs to polished user interfaces.
+I am a Senior Software Developer focused on building reliable business applications, scalable internal systems, and automation-driven digital solutions. My work combines full-stack software engineering with Microsoft Power Platform expertise, helping teams move faster through clean architecture, practical automation, and maintainable delivery.
+
+I enjoy working on systems that need both strong engineering discipline and real business impact: applications that simplify operations, reduce manual work, improve reporting, and give users better tools for daily decisions.
 
 ---
 
-## Tech Stack
+## Core Expertise
 
-### Languages
+- Senior-level software development with a focus on maintainability, performance, and reliability
+- Microsoft Power Platform solutions using Power Apps, Power Automate, and Power BI
+- Full-stack application development with modern frontend, backend, and database technologies
+- Business process automation, workflow optimization, and dashboard/reporting solutions
+- API design, data modeling, integration work, and production-ready documentation
+- Team collaboration, code review, technical problem solving, and delivery ownership
+
+---
+
+## Technical Skills
+
+### Microsoft Power Platform
+
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)
+![SharePoint](https://img.shields.io/badge/SharePoint-03787C?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-0B5563?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### Programming & Web
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql)
 
 ### Frontend
@@ -40,100 +65,83 @@ I build clean, reliable, and user-focused software with a strong interest in bac
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
 ![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap)
 
-### Backend & Database
+### Backend, Data & Tools
 
 ![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express)
 ![Django](https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-111827?style=for-the-badge&logo=microsoftsqlserver)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
-
-### Tools & Platforms
-
+![Azure](https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## Featured Projects
+## What I Build
 
-### Project One
+### Enterprise Business Applications
 
-**Short description:** A production-style web application with authentication, dashboard features, and database-backed workflows.
+I design and develop applications that support real business workflows, from data entry and approval systems to operational dashboards and internal tools.
 
-- Built with: `React`, `Node.js`, `Express`, `PostgreSQL`
-- Highlights: clean API design, responsive UI, role-based access, reusable components
-- Repository: [View Project](https://github.com/iamshuvokd/PROJECT_REPOSITORY)
+**Typical stack:** `Power Apps`, `Dataverse`, `SharePoint`, `Power Automate`, `Power BI`, `SQL`
 
-### Project Two
+### Automation & Integration Solutions
 
-**Short description:** A practical automation or data-driven application that saves time and improves accuracy.
+I create workflow automation that reduces repetitive work, connects systems, and improves operational accuracy.
 
-- Built with: `Python`, `FastAPI`, `SQL`
-- Highlights: structured data processing, API integration, testing, clear documentation
-- Repository: [View Project](https://github.com/iamshuvokd/PROJECT_REPOSITORY)
+**Typical stack:** `Power Automate`, `REST APIs`, `SharePoint`, `Microsoft 365`, `SQL`
 
-### Project Three
+### Full-Stack Web Applications
 
-**Short description:** A polished frontend experience focused on performance, accessibility, and user experience.
+I build responsive, maintainable web applications with clean user interfaces, structured APIs, and database-backed features.
 
-- Built with: `Next.js`, `TypeScript`, `Tailwind CSS`
-- Highlights: reusable UI patterns, mobile-first layout, optimized rendering
-- Repository: [View Project](https://github.com/iamshuvokd/PROJECT_REPOSITORY)
+**Typical stack:** `React`, `Next.js`, `Node.js`, `Django`, `PostgreSQL`, `MongoDB`
+
+---
+
+## Engineering Principles
+
+- Build for the user first, then support the system behind it with clean architecture.
+- Keep solutions simple enough to maintain and strong enough to scale.
+- Make data reliable, visible, and useful for decision-making.
+- Automate repetitive work where it creates measurable business value.
+- Write code and documentation that future teams can understand quickly.
 
 ---
 
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iamshuvokd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshuvokd&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iamshuvokd&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshuvokd&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamshuvokd&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=iamshuvokd&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-## How I Work
-
-- I break problems down before writing code.
-- I prefer simple, readable solutions over clever complexity.
-- I write code with future maintenance in mind.
-- I document important decisions so projects are easier to understand.
-- I value testing, review, and continuous improvement.
-
----
-
-## Currently Learning
-
-- System design and scalable backend architecture
-- Advanced TypeScript patterns
-- Cloud deployment and DevOps workflows
-- Testing strategies for reliable applications
-
----
-
-## Connect With Me
+## Contact
 
 <p align="left">
-  <a href="https://github.com/iamshuvokd">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="mailto:iamshuvokd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-iamshuvokd@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/iamshuvo">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-iamshuvo-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:iamshuvokd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail" alt="Email" />
+  <a href="https://shuvokumardas.me">
+    <img src="https://img.shields.io/badge/Portfolio-shuvokumardas.me-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-> Good software is not just code that works. It is code that can be read, trusted, improved, and used with confidence.
+<p align="center">
+  <strong>Senior Software Developer focused on practical engineering, business automation, and reliable digital products.</strong>
+</p>
