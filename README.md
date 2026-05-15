@@ -199,6 +199,8 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamshuvokd&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
+<h3 align="center">Contribution Snake</h3>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamshuvokd/iamshuvokd/output/github-contribution-grid-snake-dark.svg" />
